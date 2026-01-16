@@ -31,4 +31,6 @@ Press F6 to kill all PowerShell scripts.<br>
 
 
 ## Why?
-This script can be used to save thousands of clicks while doing repeatible actions to get an expected, rare outcome.
+This script can be used to save thousands of clicks while crafting items in Path of Exile 2.
+Third party software is against TOS and will likely get your account banned. I don't recommend using this script for Poe2.
+With a few tweaks, perhaps you can find another use for it.
