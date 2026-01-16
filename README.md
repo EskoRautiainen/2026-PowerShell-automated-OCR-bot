@@ -3,11 +3,11 @@ What does the script loop do?
 
  1. Captures a screenshot of a fixed screen region
  <img width="500" height="59" alt="image" src="https://github.com/user-attachments/assets/be442942-755d-4adb-98e1-aa3884b1119d" />
- 
- 2. Runs Tesseract OCR on that screenshot
+ <br>
+ 2. Runs Tesseract OCR on that screenshot and generates a text file
 <img width="212" height="37" alt="image" src="https://github.com/user-attachments/assets/b62382f0-38ba-4c79-9da4-dfaa6d0f6a14" />
 <img width="299" height="66" alt="image" src="https://github.com/user-attachments/assets/60e4b1aa-6b00-49b0-8b4d-7eb54d803e79" />
-
+<br>
  4. Checks the OCR result for a target string ("Spirit)
  5. If not found, performs a left mouse click
  6. Loops with a randomized delay to mimic human behaviour
