@@ -1,7 +1,6 @@
 What does the script loop do?
 ==========================================================
-
-1. Captures a screenshot of a fixed screen region
+1. Captures a screenshot of a fixed screen region<br>
 <img width="500" height="59" alt="image" src="https://github.com/user-attachments/assets/be442942-755d-4adb-98e1-aa3884b1119d" />
 <br>
 2. Runs Tesseract OCR on that screenshot and generates a text file
@@ -30,5 +29,5 @@ Press F4 to start up the powershell script.<br>
 Press F6 to kill all PowerShell scripts.<br>
 <br>
 Why?<br>
-==========================================================<br>
+==========================================================
 This script can be used to save thousands of clicks while doing repeatible actions to get an expected, rare outcome.
