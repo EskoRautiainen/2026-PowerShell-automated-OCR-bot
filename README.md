@@ -29,6 +29,6 @@ Press F4 to start up the powershell script.<br>
 <br>
 Press F6 to kill all PowerShell scripts.<br>
 <br>
-Why?
-==========================================================
+Why?<br>
+==========================================================<br>
 This script can be used to save thousands of clicks while doing repeatible actions to get an expected, rare outcome.
