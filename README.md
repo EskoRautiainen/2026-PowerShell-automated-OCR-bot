@@ -1,11 +1,13 @@
 What does the script loop do?
 ==========================================================
 1. Captures a screenshot of a fixed screen region<br>
+
 <img width="500" height="59" alt="image" src="https://github.com/user-attachments/assets/be442942-755d-4adb-98e1-aa3884b1119d" />
 <br>
-2. Runs Tesseract OCR on that screenshot and generates a text file
-<br>
+3. Runs Tesseract OCR on that screenshot and generates a text file<br>
+
 <img width="212" height="37" alt="image" src="https://github.com/user-attachments/assets/b62382f0-38ba-4c79-9da4-dfaa6d0f6a14" />
+<br>
 <img width="299" height="66" alt="image" src="https://github.com/user-attachments/assets/60e4b1aa-6b00-49b0-8b4d-7eb54d803e79" />
 <br>
 4. Checks the OCR result for a target string ("Spirit)<br>
@@ -28,6 +30,7 @@ Press F4 to start up the powershell script.<br>
 <br>
 Press F6 to kill all PowerShell scripts.<br>
 <br>
-Why?<br>
+Why?
 ==========================================================
+
 This script can be used to save thousands of clicks while doing repeatible actions to get an expected, rare outcome.
