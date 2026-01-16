@@ -18,17 +18,17 @@ What does the script loop do?
 How does it work?
 ==========================================================
 
-Start Crafting Assistant.Ahk file. (Requires AutoHotkey)
-Press F4 to start up the powershell script.
-  This starts a loop:
-  - Generate screenshot from a defined area.
-  - Read text from this screenshot using Tesseract OCR and insert text into text_date_time.txt.
-  - Read generated text.txt file and try to find spesified keyword "Spirit"
-  - If "Spirit" is not found, send LeftClick mouse input.
-  - Repeat the loop until "Spirit" is found.
-
-Press F6 to kill all PowerShell scripts.
-
+Start Crafting Assistant.Ahk file. (Requires AutoHotkey)<br>
+Press F4 to start up the powershell script.<br>
+  This starts a loop:<br>
+  - Generate screenshot from a defined area.<br>
+  - Read text from this screenshot using Tesseract OCR and insert text into text_date_time.txt.<br>
+  - Read generated text.txt file and try to find spesified keyword "Spirit"<br>
+  - If "Spirit" is not found, send LeftClick mouse input.<br>
+  - Repeat the loop until "Spirit" is found.<br>
+<br>
+Press F6 to kill all PowerShell scripts.<br>
+<br>
 Why?
 ==========================================================
 This script can be used to save thousands of clicks while doing repeatible actions to get an expected, rare outcome.
